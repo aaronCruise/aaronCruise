@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I am a Computer Science graduate and IT Support Specialist.
+I am a backend-focused software engineer and recent computer science graduate.
 I have experience in full-stack web development, systems programming, and data-driven projects.
 
 Here you'll find:
